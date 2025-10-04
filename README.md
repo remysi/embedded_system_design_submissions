@@ -1,7 +1,7 @@
 Repository folder structure 
 ---------------------------
 <pre>
-bash cube_ws 
+cube_ws 
 ├── assignment_4 
 │   ├── task_1 
 │   └── task_2 
